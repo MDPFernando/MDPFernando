@@ -10,25 +10,9 @@
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MDPFernando&color=00d4ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/MDPFernando?label=Followers&style=flat-square&color=7c3aed)](https://github.com/MDPFernando?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/MDPFernando?label=Followers&style=flat-square&logo=github&color=7c3aed&logoColor=white&labelColor=0d1117)](https://github.com/MDPFernando?tab=followers)
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-```java
-public class Dineth {
-    String name        = "Dineth Prashansa";
-    String university  = "NSBM Green University, Sri Lanka 🇱🇰";
-    String degree      = "B.Sc. (Hons) Computer Science — Year 2";
-    String location    = "Negombo, Western Province, Sri Lanka";
-    String[] focus     = {"Spring Boot", "Java", "Web Development"};
-    boolean openToWork = true;
-    String motto       = "Turn real-world problems into clean, working software 💡";
-}
-```
 
 ---
 
@@ -110,7 +94,7 @@ public class Dineth {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MDPFernando&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=MDPFernando&theme=onedark&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=4" alt="MDPFernando trophies" />
 
 </div>
 
