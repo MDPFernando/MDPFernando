@@ -90,11 +90,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MDPFernando&theme=onedark&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=4" alt="MDPFernando trophies" />
+| 🦈 Pull Shark | 🦈 Pull Shark x2 | ⭐ Starstruck | 🎯 YOLO |
+|:---:|:---:|:---:|:---:|
+| ![Pull Shark](https://img.shields.io/badge/Pull_Shark-0075ff?style=for-the-badge&logo=github&logoColor=white) | ![Pull Shark x2](https://img.shields.io/badge/Pull_Shark_×2-0075ff?style=for-the-badge&logo=github&logoColor=white) | ![Starstruck](https://img.shields.io/badge/Starstruck-FFD700?style=for-the-badge&logo=github&logoColor=black) | ![YOLO](https://img.shields.io/badge/YOLO-ff6b35?style=for-the-badge&logo=github&logoColor=white) |
+
+[![View All Achievements](https://img.shields.io/badge/View_All_Achievements-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDPFernando?tab=achievements)
 
 </div>
 
@@ -117,6 +121,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineth-prashansa-77491a37b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDPFernando)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinethprashansa.517@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94769414472)
 
 </div>
 
